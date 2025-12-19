@@ -5,8 +5,7 @@ Disusun Oleh :
 2. Rino Alfaridzi Hutomo  (G1A022085)
 
 Dosen Pengampu : 
-1. Ernawati, S.T., M.Cs
-2. Ir. Arie Vatresia, S.T., M.TI., Ph.D., IPP.
+Ir. Arie Vatresia, S.T., M.TI., Ph.D., IPP.
 
 Soal UAS :
 Tema:“Pengembangan Sistem Deteksi Anomali pada Data Sensor IoT menggunakan Arsitektur Hybrid CNN‑LSTM”
